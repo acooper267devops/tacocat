@@ -1,7 +1,7 @@
 prefix        = "taco"
 location      = "eastus"
-environment   = "production"
-project       = "tacocat-gagit checkout main
+environment   = "development"
+project       = "tacocat-dev-ga"
 git pull
 git checkout -b dev-environment"
 address_space = "10.42.0.0/16"
